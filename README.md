@@ -9,6 +9,6 @@ You can click on the empty circle to the left, to mark an event complete. And yo
 
 <p float="left">
   <img src="https://user-images.githubusercontent.com/107354647/193964240-c3fdba84-a876-4358-919e-f7034b70ae66.png" width="30%" />
-  <img src="https://user-images.githubusercontent.com/107354647/173237460-c0447b7f-2cbf-4c4d-8956-5e734e7a5cd6.png" width="30%" /> 
-  <img src="https://user-images.githubusercontent.com/107354647/173237463-d496e769-61fd-40b7-b71d-2c8eca533211.png" width="30%" /> 
+  <img src="https://user-images.githubusercontent.com/107354647/193964287-c2ed8148-f1af-48e7-b034-4531189817e5.png" width="30%" /> 
+  <img src="https://user-images.githubusercontent.com/107354647/193964288-951687dc-ffee-4b71-825c-cbc4ba53e362.png" width="30%" /> 
 </p>
