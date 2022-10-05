@@ -8,7 +8,7 @@ You can click on the empty circle to the left, to mark an event complete. And yo
 
 
 <p float="left">
-  <img src = "(https://user-images.githubusercontent.com/107354647/193963722-8b78c9bc-a75b-4ced-b709-54caf8282c6d.png)" width = "30%" />
+  <img src = "(https://user-images.githubusercontent.com/107354647/193963942-0c4babf8-d208-4154-be89-f55802c0f9ea.png)" width = "30%" />
   <img src = "(https://user-images.githubusercontent.com/107354647/193963723-8b05054e-5bba-4b05-9721-38556bb202e9.png)" width = "30%" />
   <img src = "(https://user-images.githubusercontent.com/107354647/193963724-5455ac0c-f6ec-4ffa-bc75-c558d12b1ae2.png)" width = "30%" />
 </p>
