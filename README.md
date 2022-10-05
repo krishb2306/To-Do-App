@@ -9,11 +9,7 @@ You can click on the empty circle to the left, to mark an event complete. And yo
 
 <p float="left">
   <img src = "(https://user-images.githubusercontent.com/107354647/193963722-8b78c9bc-a75b-4ced-b709-54caf8282c6d.png)" width = "30%" />
-<img src = "(https://user-images.githubusercontent.com/107354647/193963723-8b05054e-5bba-4b05-9721-38556bb202e9.png)" width = "30%" />
-<img src = "(https://user-images.githubusercontent.com/107354647/193963724-5455ac0c-f6ec-4ffa-bc75-c558d12b1ae2.png)" width = "30%" />
+  <img src = "(https://user-images.githubusercontent.com/107354647/193963723-8b05054e-5bba-4b05-9721-38556bb202e9.png)" width = "30%" />
+  <img src = "(https://user-images.githubusercontent.com/107354647/193963724-5455ac0c-f6ec-4ffa-bc75-c558d12b1ae2.png)" width = "30%" />
 </p>
-
-<img src = "(https://user-images.githubusercontent.com/107354647/193963722-8b78c9bc-a75b-4ced-b709-54caf8282c6d.png)" width = "30%" />
-<img src = "(https://user-images.githubusercontent.com/107354647/193963723-8b05054e-5bba-4b05-9721-38556bb202e9.png)" width = "30%" />
-<img src = "(https://user-images.githubusercontent.com/107354647/193963724-5455ac0c-f6ec-4ffa-bc75-c558d12b1ae2.png)" width = "30%" />
 
